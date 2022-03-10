@@ -60,6 +60,7 @@ if (isset($_POST['submit'])){
     .box2{
         height: 300px;
         margin: 50px;
+    
     }
     nav{
         float: right;

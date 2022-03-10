@@ -15,7 +15,7 @@
  		}
  	</style>
  </head>
- <body style="background-color: #004528; ">
+ <body>
  	<div class="container">
  		<form action="" method="post">
  			<button class="btn btn-default" style="float: right; width: 70px;" name="submit1">Edit</button>

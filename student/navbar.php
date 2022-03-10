@@ -25,7 +25,7 @@ session_start();
                 <br>
                 <h1 class="text-white">DREAMERS LIBRARY</h1> 
             </div>
-            <nav class="nav navbar-nav">
+            <nav >
                 <ul >
                     <li><a href="index1.php" class="text-white text-decoration-none"><i class="fa fa-home"></i>Home</a></li>
                     <li><a href="books.php" class="text-white text-decoration-none"><i class="fa fa-book"></i>Books</a></li>
@@ -61,7 +61,7 @@ session_start();
 
                 <li class="float-right"><a href="student_login.php"><span class="glyphicon glyphicon-log-in">LOGIN</span></a></li>
                 
-                <li><a href="registration.php"><span class="glyphicon glyphicon-user">SIGN-UP</span></a></li>
+                <li><a href="signUp.php"><span class="glyphicon glyphicon-user">SIGN-UP</span></a></li>
               </ul>
              
                 <?php

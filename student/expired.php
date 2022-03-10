@@ -24,7 +24,6 @@
 		}
 		
 		body {
-			background-image: url("images/aa.jpg");
 			background-repeat: no-repeat;
   	font-family: "Lato", sans-serif;
   	transition: background-color .5s;
